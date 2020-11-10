@@ -2,6 +2,8 @@
 
 一个基于markdown的简历，自用，也欢迎修改使用。
 
+使用方法：直接按需修改Resume.md文件（推荐使用Typora），然后用Typora生成PDF文档或者HTML文档。
+
 参考了这些项目并根据自己的需求做了一些小修改：
 
 1. <https://gitee.com/lcry/Simple-IT-Markdown-Resume>

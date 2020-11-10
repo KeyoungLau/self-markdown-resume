@@ -21,8 +21,9 @@
              <a href="https://www.cnblogs.com/keyoung/">CnBlog</a>
          </span>
      </div>
-     <div style="position:absolute;top:78px;right:10px;z-index:8;border:1px solid black;"> <img src="Resume.assets/1寸.jpg"  width="70"></div>
+     <div style="position:absolute;top:90px;right:15px;z-index:8;border:1px solid black;"> <img src="Resume.assets/1寸.jpg"  width="70"></div>
  </center>
+
 ## <img src="assets/info-circle-solid.svg" width="30px"> <font color="#003472">个人信息</font>
 
  - 男，1995年出生
@@ -122,7 +123,8 @@ text-align: center;
 line-height: 1.5;">
 <hr>
   <p align="center">Copyright © 2020 keyoung</p>
-  <p align="center">Powered By Markdown</p>  
+  <p align="center">Powered By Markdown on Typora</p>  
 </div>
+
 
 

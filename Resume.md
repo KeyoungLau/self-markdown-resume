@@ -28,7 +28,7 @@
 
  - 男/1995
  - 政治面貌：团员
- - 求职意向：图书馆员、信息管理岗、运维工程师
+ - 求职意向：图书馆员、信息管理岗、运维岗
  - 期望城市：贵阳
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> <font color="#003472">教育经历</font>
@@ -102,8 +102,6 @@
 ## <img src="assets/evaluate-solid.svg" width="30px"> <font color="#065279">自我评价</font>
 
 <p style="text-indent:2em">性格稳重，做事情脚踏实地，责任感强，有良好的沟通能力、较强的学习能力和抗压能力；熟悉图书馆的日常运维与管理，熟悉信息资源的建设流程，熟练掌握专利分析报告的写法；熟悉 Linux 平台和shell脚本的编写，熟悉DBM，熟悉Docker，熟练掌握Python和JavaScript编程语言，能使用Python进行应用模型的快速开发，具备优秀的英文技术文档阅读与翻译能力；爱好打羽毛球；</p>
-
-
 
 
 

@@ -18,7 +18,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://www.cnblogs.com/keyoung/">CnBlog</a>
+             <a href="http://www.keyoung.vip">Blog</a>
          </span>
      </div>
      <div style="position:absolute;top:90px;right:15px;z-index:8;border:1px solid black;"> <img src="Resume.assets/1寸.jpg"  width="70"></div>
@@ -28,7 +28,7 @@
 
  - 男/1995
  - 政治面貌：团员
- - 求职意向：图书馆员、信息管理岗、运维岗
+ - 求职意向：图书馆员、信息管理岗、运维岗、数据岗
  - 期望城市：贵阳
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> <font color="#003472">教育经历</font>

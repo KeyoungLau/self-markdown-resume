@@ -3,7 +3,7 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             18073519737
+             180-7351-9737
          </span>
          ·
          <span>
@@ -24,12 +24,14 @@
      <div style="position:absolute;top:90px;right:15px;z-index:8;border:1px solid black;"> <img src="Resume.assets/1寸.jpg"  width="70"></div>
  </center>
 
+
 ## <img src="assets/info-circle-solid.svg" width="30px"> <font color="#003472">个人信息</font>
 
  - 男/1995
- - 政治面貌：团员
+ - 政治面貌：共青团员
  - 求职意向：图书馆员、信息管理岗、运维岗、数据岗
- - 期望城市：贵阳
+ - 预期毕业时间：2021.07
+ - 期望城市：昆明/贵阳
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> <font color="#003472">教育经历</font>
 
@@ -50,7 +52,7 @@
 
 
 - **中国科学院昆明动物研究所（2019.10—2020.01） 信管岗**
-  - 标本库实习，负责国家标本资源共享平台NSII项目（http://www.nsii.org.cn/）螺类标本的数据清洗和数字化整理与表达工作；
+  - 标本库实习，负责国家标本资源共享平台 NSII 项目（http://www.nsii.org.cn/）螺类标本的数据清洗和数字化整理与表达工作；
    - 完成7000多号螺类标本的数字化清洗与整理工作并顺利验收合格；
 
 
@@ -78,18 +80,18 @@
   
 - **基于高精度OCR文件处理工具**：
 
-  <p style="text-indent:2em">该项目源于云南大学校档案馆有两万多张毕业证和学位证照片需要重命名，重命名的依据是学位证或毕业证上的姓名和专业等信息。根据照片中的内容进行重命名，人工来做的话效率特别低，通过编写软件调用百度云高精度OCR实现自动重命名作业，日均可处理2000到5000张图片，准确率在98%以上，顺利完成了2019年云南大学毕业生学位证毕业证电子档案归档工作。GitHub地址：KeyoungLau/lazy4power。</p>
+  <p style="text-indent:2em">该项目源于云南大学校档案馆有两万多张毕业证和学位证照片需要重命名，重命名的依据是学位证或毕业证上的姓名和专业等信息。根据照片中的内容进行重命名，人工来做的话效率特别低，通过编写软件调用百度云高精度 OCR 实现自动重命名作业，日均可处理2000到5000张图片，准确率在98%以上，顺利完成了2019年云南大学毕业生学位证毕业证电子档案归档工作。GitHub 地址：KeyoungLau/lazy4power。</p>
 
 ## <img src="assets/tools-solid.svg" width="30px"> <font color="#003472">技能证书</font>
 
-- ★★★ 语言：CET6证书（516）
-- ★★★ Python：微软MTA Python证书、国家计算机等级二级证书（Python）
-- ★★★ 运维：红帽RHCE证书、工信部高级Linux运维工程师证书
-- ★★☆ 云计算：阿里云ACA认证证书
+- ★★★ 语言：CET6 证书（516）
+- ★★★ Python：微软 MTA Python 证书、国家计算机等级二级证书（Python）
+- ★★★ 运维：红帽 RHCE 证书、工信部高级 Linux 运维工程师证书
+- ★★☆ 云计算：阿里云 ACA 认证证书
 - ★☆☆ 数据库：国家计算机等级二级证书（MySQL）
 - ★★☆ 网络管理：工信部高级网络工程师证书、国家计算机等级三级证书（网络技术）
-- ★★☆ Office：微软MOS Master认证证书、国家计算机等级二级证书（Office）
-- ★☆☆ 自动化：阿里云RPA证书
+- ★★☆ Office：微软 MOS Master 认证证书、国家计算机等级二级证书（Office）
+- ★☆☆ 自动化：阿里云 RPA 证书
 
 ## <img src="assets/honor-solid.svg" width="30px"> <font color="#003472">获得荣誉</font>
 
@@ -101,7 +103,7 @@
 
 ## <img src="assets/evaluate-solid.svg" width="30px"> <font color="#065279">自我评价</font>
 
-<p style="text-indent:2em">性格稳重，做事情脚踏实地，责任感强，有良好的沟通能力、较强的学习能力和抗压能力；熟悉图书馆的日常运维与管理，熟悉信息资源的建设流程，熟练掌握专利分析报告的写法；熟悉 Linux 平台和shell脚本的编写，熟悉DBM，熟悉Docker，熟练掌握Python和JavaScript编程语言，能使用Python进行应用模型的快速开发，具备优秀的英文技术文档阅读与翻译能力；爱好打羽毛球；</p>
+<p style="text-indent:2em">性格稳重，做事情脚踏实地，责任感强，有良好的沟通能力、较强的学习能力和抗压能力；熟悉图书馆的日常运维与管理，熟悉信息资源的建设流程，熟练掌握专利分析报告的写法；熟悉 Linux 平台和 shell 脚本的编写，熟悉 DBM，熟悉 Docker，熟练掌握 Python 和 JavaScript 编程语言，能使用 Python 进行应用模型的快速开发，具备优秀的英文技术文档阅读与翻译能力；爱好打羽毛球；</p>
 
 
 

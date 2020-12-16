@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/KeyoungLau">Keyoung</a>
+             <a href="https://github.com/KeyoungLau">GitHub</a>
          </span>
          ·
          <span>
